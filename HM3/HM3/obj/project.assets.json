@@ -4561,11 +4561,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BigTasty\\Desktop\\Programing\\ASP\\HM1\\HM3\\HM3.csproj",
+      "projectUniqueName": "C:\\Users\\BigTasty\\Desktop\\Programing\\ASP\\HM3\\HM3\\HM3.csproj",
       "projectName": "HM3",
-      "projectPath": "C:\\Users\\BigTasty\\Desktop\\Programing\\ASP\\HM1\\HM3\\HM3.csproj",
+      "projectPath": "C:\\Users\\BigTasty\\Desktop\\Programing\\ASP\\HM3\\HM3\\HM3.csproj",
       "packagesPath": "C:\\Users\\BigTasty\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BigTasty\\Desktop\\Programing\\ASP\\HM1\\HM3\\obj\\",
+      "outputPath": "C:\\Users\\BigTasty\\Desktop\\Programing\\ASP\\HM3\\HM3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BigTasty\\AppData\\Roaming\\NuGet\\NuGet.Config",

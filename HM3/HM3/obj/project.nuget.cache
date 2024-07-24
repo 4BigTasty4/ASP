@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vhPmw8SVIK9hjfIfrvrL+WHPVQk4cKBwbyxkJNCP0ueG6WjWFLNcmoS0+aAA7su/QPyZF+HR3xf6++BBe2Bs3g==",
+  "dgSpecHash": "bkW+XnwTXGWzCCEOpk+7F+TEQydiD9e+ihZ01Rn6mmzmcYNUGe/hdT0v9PLWpSyl+rwlYTuZ+sAbwbde07WjDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BigTasty\\Desktop\\Programing\\ASP\\HM1\\HM3\\HM3.csproj",
+  "projectFilePath": "C:\\Users\\BigTasty\\Desktop\\Programing\\ASP\\HM3\\HM3\\HM3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BigTasty\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\BigTasty\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
